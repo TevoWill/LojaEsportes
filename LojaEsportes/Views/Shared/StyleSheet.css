@@ -1,0 +1,14 @@
+﻿body, html {
+    height: 100%;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("C:\Users\330309\source\repos\Passei\Passei\bower_components\img1 page/img(20).jpg");
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
